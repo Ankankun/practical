@@ -17,3 +17,4 @@ public class Main {
         myAnimal.sound(); // Dog's own method
     }
 }
+
